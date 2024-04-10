@@ -14,3 +14,15 @@ The Panda's Hangout community owes you a debt of gratitude for your unwavering s
 As I look back on the countless hours of gameplay, the triumphs, the defeats, and the unbreakable bonds formed, I do so with a profound sense of gratitude for the role our community has played in shaping these experiences. You've not only preserved a piece of gaming history but also empowered a new generation of gamers to create their own legends.
 
 Here's to the past five incredible years, and to you, for making it all possible. May the future be just as adventurous, with new survivors to tell the tales of their conquests, inspired by the archives we've shared.
+
+# Mod List
+Collection URL: https://steamcommunity.com/sharedfiles/filedetails/?id=2608925441
+- Awesome SpyGlass!
+- Awesome Teleporters!
+- Structures Plus (S+)
+- Dino Storage v2
+- FrogMacs Kibble Station
+- StackMeMore (v1.55)
+- Upgrade Station v1.8i
+- Crafting Skill Potion
+- Editable Server UI (WBUI) Open Source
